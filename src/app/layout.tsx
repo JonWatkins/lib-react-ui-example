@@ -1,6 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
-import 'lib-react-ui/dist/styles.css'
+import 'lib-react-ui/dist/index.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
